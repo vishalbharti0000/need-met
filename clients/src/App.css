@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway');
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Raleway:wght@300&display=swap");
+
+.body{
+    color: teal;
+    padding-top: 100px;
+    background-color: #8fdbd1;
+    background-image: url("https://www.transparenttextures.com/patterns/shattered-dark.png");
+    /* background-image: url("https://www.transparenttextures.com/patterns/purty-wood.png"); */
+    /* background-image: url("https://www.transparenttextures.com/patterns/diamond-upholstery.png"); */
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
